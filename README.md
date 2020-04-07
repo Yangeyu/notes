@@ -1,1 +1,4 @@
 #vimwiki
+```
+Test vimwiki
+```
