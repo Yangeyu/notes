@@ -1,4 +1,15 @@
 ```
+                        __     _____ __  __ 
+                        \ \   / /_ _|  \/  |
+                         \ \ / / | || |\/| |
+                          \ V /  | || |  | |
+                           \_/  |___|_|  |_|
+                                            
+                        
+```
+
+<++>
+```
 This is a text about vim's operation
 Hello World
 Today is Mon
