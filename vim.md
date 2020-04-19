@@ -8,7 +8,6 @@
                         
 ```
 
-<++>
 ```
 This is a text about vim's operation
 Hello World
