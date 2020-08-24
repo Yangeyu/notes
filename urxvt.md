@@ -36,7 +36,7 @@ URxvt*color4:#2B79DC
 URxvt*color5:#D455E9
 URxvt*color6:#059FA2
 URxvt*color7:#D3D7CF
-URxvt*color8:#888A85
+URxvt*color8:#555753
 URxvt*color9:#EF2929
 URxvt*color10:#37EF65
 URxvt*color11:#FCE94F
